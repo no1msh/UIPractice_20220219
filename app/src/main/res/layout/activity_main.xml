@@ -29,4 +29,15 @@
         android:hint="비밀번호를 입력해주세요."
         android:inputType="textPassword"/>
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="닉네임" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:hint="자유롭게 입력해주세요. (한글도 가능합니다.)" />
+
 </LinearLayout>
