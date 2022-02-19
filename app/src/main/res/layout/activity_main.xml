@@ -41,4 +41,10 @@
         android:imeOptions="actionSend"
         android:hint="자유롭게 입력해주세요. (한글도 가능합니다.)" />
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="가입 진행"
+        android:backgroundTint="#cc0000"/>
+
 </LinearLayout>
